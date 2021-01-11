@@ -10,6 +10,8 @@ Jiffy is a Flutter (Android, IOS and Web) date time package inspired by [momentj
 
 # Usage
 
+Pubspec.yaml
+
 ```dart
 jiffy:
     git:
