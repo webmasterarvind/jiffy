@@ -114,15 +114,6 @@ To contribute, follow the following easy steps
 
 - Create a new pull request
 
-## Support
-
-Reach out to me at one of the following places!
-
-- Email at jama3137@gmail.com
-- Twitter [timedjama5262](https://twitter.com/timedjama5262)
-
-<a href="https://www.buymeacoffee.com/jama" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
 ## License
 
 ```
