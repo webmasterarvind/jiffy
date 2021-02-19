@@ -2,6 +2,7 @@ import 'package:jiffy/src/relative_time/locales/ar_locale.dart';
 import 'package:jiffy/src/relative_time/locales/de_locale.dart';
 import 'package:jiffy/src/relative_time/locales/en_locale.dart';
 import 'package:jiffy/src/relative_time/locales/es_locale.dart';
+import 'package:jiffy/src/relative_time/locales/fa_locale.dart';
 import 'package:jiffy/src/relative_time/locales/fr_locale.dart';
 import 'package:jiffy/src/relative_time/locales/hi_locale.dart';
 import 'package:jiffy/src/relative_time/locales/id_locale.dart';
@@ -11,9 +12,9 @@ import 'package:jiffy/src/relative_time/locales/ko_locale.dart';
 import 'package:jiffy/src/relative_time/locales/pl_locale.dart';
 import 'package:jiffy/src/relative_time/locales/pt_locale.dart';
 import 'package:jiffy/src/relative_time/locales/ru_locale.dart';
-import 'package:jiffy/src/relative_time/locales/zh_locale.dart';
-import 'package:jiffy/src/relative_time/locales/tr_locale.dart';
 import 'package:jiffy/src/relative_time/locales/sv_locale.dart';
+import 'package:jiffy/src/relative_time/locales/tr_locale.dart';
+import 'package:jiffy/src/relative_time/locales/zh_locale.dart';
 import 'package:jiffy/src/relative_time/lookup_messages.dart';
 import 'package:jiffy/src/utils/replace.dart';
 
@@ -57,7 +58,8 @@ Map<String, LookUpMessages> _lookupMessagesMap = {
   'pl': PlLocale(),
   'ptbr': PtLocale(),
   'tr': TrLocale(),
-  'sv': SvLocale()
+  'sv': SvLocale(),
+  'fa': FaLocale()
 };
 
 String format(String locale, DateTime date1, [DateTime date2]) {
