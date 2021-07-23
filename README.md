@@ -15,7 +15,7 @@ Pubspec.yaml
 ```dart
 jiffy:
     git:
-      url: https://github.com/tamilvicky17/jiffy.git
+      url: https://github.com/webmaster/jiffy.git
 ```
 
 ## Format Dates
